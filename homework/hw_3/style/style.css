@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#currentArray {
+    background-color: #34495e;
+    color: white;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+#searchItem {
+    background-color: #2980b9;
+    color: white;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
